@@ -1,5 +1,5 @@
 package appmathematic
 
-func penjumlahan(a int, b int) int {
+func Penjumlahan(a int, b int) int {
 	return a + b
 }
